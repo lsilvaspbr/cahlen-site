@@ -1,0 +1,23 @@
+{
+  "name": "CAHLEN Acessórios",
+  "short_name": "CAHLEN",
+  "description": "Curadoria de acessórios femininos com estética clean, sofisticada e atemporal.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FCFAF8",
+  "theme_color": "#FCFAF8",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
